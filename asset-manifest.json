@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnnaBaraulina/test-calendar/static/css/main.78be8263.css",
+    "main.js": "/AnnaBaraulina/test-calendar/static/js/main.e36954a0.js",
+    "static/js/787.f4b9e84d.chunk.js": "/AnnaBaraulina/test-calendar/static/js/787.f4b9e84d.chunk.js",
+    "index.html": "/AnnaBaraulina/test-calendar/index.html",
+    "main.78be8263.css.map": "/AnnaBaraulina/test-calendar/static/css/main.78be8263.css.map",
+    "main.e36954a0.js.map": "/AnnaBaraulina/test-calendar/static/js/main.e36954a0.js.map",
+    "787.f4b9e84d.chunk.js.map": "/AnnaBaraulina/test-calendar/static/js/787.f4b9e84d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78be8263.css",
+    "static/js/main.e36954a0.js"
+  ]
+}
